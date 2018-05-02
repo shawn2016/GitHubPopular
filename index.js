@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import Step from './js/page/step';
 
-AppRegistry.registerComponent('GitHubPopular', () => App);
+AppRegistry.registerComponent('GitHubPopular', () => Step);
